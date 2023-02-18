@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^SOCanalyses\.Rproj$
+^\.DS_Store$
+^LICENSE\.md$
+^README\.Rmd$
+^README\.html$
