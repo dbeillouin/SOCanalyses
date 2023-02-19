@@ -30,7 +30,7 @@ SOCanalyses <img src="man/figures/package-sticker.png" align="right" style="floa
 <!-- badges: end -->
 
 
-The goal of the R package `SOCanalyses` is to **{{ PLEASE ADD A FEW LINES }}**
+The goal of the R package `SOCanalyses` is to analyse the effect of various human intervention on soil organic carbon.
 
 
 
@@ -62,7 +62,7 @@ Here is an overview of `SOCanalyses` content: **{{ PLEASE ADD A FEW LINES }}**
 Please cite this package as: 
 
 > Beillouin Damien (`r format(Sys.Date(), "%Y")`) SOCanalyses: An R 
-package to **{{ TITLE }}**. R package version 0.0.0.9000.
+package to analyse the impacts of human intervention on soil organic carbon. R package version 0.0.0.9000.
 
 
 

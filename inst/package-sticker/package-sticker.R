@@ -6,11 +6,11 @@
 # install.packages(c("png", "ggplot2", "hexSticker", "grid", "ggpubr"))
 
 
-rlogo <- png::readPNG(here::here("inst", "package-sticker", "r_logo.png"))
+rlogo <- png::readPNG(here::here("inst", "package-sticker", "logo.png"))
 rlogo <- grid::rasterGrob(rlogo, interpolate = TRUE)
 
 p <- ggplot2::ggplot() +
-  ggplot2::annotation_custom(rlogo, xmin = -Inf, xmax = Inf, ymin = -Inf, 
+  ggplot2::annotation_custom(rlogo, xmin = -Inf, xmax = Inf, ymin = -Inf,
                              ymax = Inf) +
   ggplot2::theme_void() +
   ggpubr::theme_transparent()
@@ -18,7 +18,7 @@ p <- ggplot2::ggplot() +
 hexSticker::sticker(
 
   subplot   = p,
-  package   = "R Package",
+  package   = "RSOCAnalyses",
   filename  = here::here("man", "figures", "package-sticker.png"),
   dpi       = 600,
 

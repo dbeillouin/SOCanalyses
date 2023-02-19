@@ -6,7 +6,7 @@
 \alias{SOCanalyses-package}
 \title{SOCanalyses: The Title of the Project}
 \description{
-A paragraph providing a full description of the project (on several lines...)
+This package analyses the results of meta-analyses studying the effect of human interventions on soil carbon. The analyses are based on a systematic synthesis of the available literature on the CIRAD repository (https://doi.org/10.18167/DVN1/KKPLR834). The database is described in Beillouin et al. 2022 (https://doi.org/10.1038/s41597-022-01318-1).
 }
 \seealso{
 Useful links:
@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Damien Beillouin \email{d.beillouin@cirad.fr} (\href{https://orcid.org/{{orcid}}}{ORCID}) [copyright holder]
+\strong{Maintainer}: Damien Beillouin \email{d.beillouin@cirad.fr} (\href{https://orcid.org/{{0000-0003-2014-3482}}}{ORCID}) [copyright holder]
 
 }
 \keyword{internal}

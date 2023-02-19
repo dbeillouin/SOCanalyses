@@ -7,9 +7,11 @@ Authors@R: c(
            family  = "Beillouin",
            role    = c("aut", "cre", "cph"),
            email   = "d.beillouin@cirad.fr",
-           comment = c(ORCID = "{{orcid}}")))
-Description: A paragraph providing a full description of the project (on 
-    several lines...)
+           comment = c(ORCID = "{{0000-0003-2014-3482}}")))
+Description: 
+    This package analyses the results of meta-analyses studying the effect of human interventions on soil carbon. 
+    The analyses are based on a systematic synthesis of the available literature on the CIRAD repository (https://doi.org/10.18167/DVN1/KKPLR834).
+    The database is described in Beillouin et al. 2022 (https://doi.org/10.1038/s41597-022-01318-1).
 URL: https://github.com/dbeillouin/SOCanalyses
 BugReports: https://github.com/dbeillouin/SOCanalyses/issues
 License: GPL (>= 2)
